@@ -1,6 +1,6 @@
 {
-    "name": "camroncade/timezone",
-    "description": "Helps manage timezones in Laravel. Includes <select> form builder for timezones.",
+    "name": "tdchien/timezone",
+    "description": "Update fix for dupplicate key in list timezone. Helps manage timezones in Laravel. Includes <select> form builder for timezones.",
     "homepage": "http://www.camroncade.com/managing-timezones-with-laravel/",
     "keywords": ["timezone", "timezones"],
     "license": "MIT",
@@ -19,7 +19,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Camroncade\\Timezone\\": "src/"
+            "Chientd\\Timezone\\": "src/"
         }
     },
     "minimum-stability": "stable",
